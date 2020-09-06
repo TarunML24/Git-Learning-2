@@ -4,4 +4,4 @@ This is a sample
 
 ## Adding some changes
 
-This is first change
+This is first changes.
